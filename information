@@ -1,0 +1,184 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geometry and Measurements</title>
+</head>
+<body>
+
+    <h1>TERM 1 — Measurement and Geometry</h1>
+
+    <h2>1. Metric Units and Scientific Measurements</h2>
+    <p><strong>Meaning:</strong> This topic deals with units used to measure length, mass, capacity, area, and volume, including expressing very large or very small numbers using scientific notation.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>1 km = 1,000 m</p>
+    <p>1 m = 100 cm</p>
+    <p>1 cm = 10 mm</p>
+    <p>1 kg = 1,000 g</p>
+    <p>1 L = 1,000 mL</p>
+    <p>1 m² = 10,000 cm²</p>
+    <p>1 m³ = 1,000 L</p>
+    <p>N = a × 10ⁿ</p>
+    <p>Where: 1 ≤ |a| &lt; 10 and n is an integer.</p>
+
+    <h2>2. Unit Conversions</h2>
+    <p><strong>Meaning:</strong> Unit conversion is the process of changing a measurement from one unit to another without changing its actual value.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>New Value = Given Value × Conversion Factor</p>
+    <p>Speed = Distance / Time</p>
+    <p>1 hour = 60 minutes</p>
+    <p>1 day = 24 hours</p>
+    <p>1 hectare = 10,000 m²</p>
+    <p>1 foot = 30.48 cm</p>
+
+    <h2>3. Surface Area of Three-Dimensional Objects</h2>
+    <p><strong>Meaning:</strong> Surface area is the total area covering the outside of a three-dimensional object.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Rectangular Prism: SA = 2(lw + lh + wh)</p>
+    <p>Cube: SA = 6s²</p>
+    <p>Cylinder: SA = 2πr² + 2πrh</p>
+    <p>Curved Surface Area of a Cylinder: CSA = 2πrh</p>
+    <p>Cone: SA = πr² + πrℓ</p>
+    <p>Sphere: SA = 4πr²</p>
+    <p>Regular Pyramid: SA = B + ½Pℓ</p>
+    <p>General Prism: SA = 2B + Ph</p>
+    <p>For combined solids, add only the exposed surface areas.</p>
+    <p>Where: SA = surface area, B = base area, P = base perimeter, r = radius, h = height, ℓ = slant height, l = length, w = width, s = side, and π ≈ 3.1416.</p>
+
+    <h2>4. Volume of Three-Dimensional Objects</h2>
+    <p><strong>Meaning:</strong> Volume is the amount of space occupied by a three-dimensional object.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Cube: V = s³</p>
+    <p>Rectangular Prism: V = lwh</p>
+    <p>General Prism: V = Bh</p>
+    <p>Pyramid: V = ⅓Bh</p>
+    <p>Cylinder: V = πr²h</p>
+    <p>Cone: V = ⅓πr²h</p>
+    <p>Sphere: V = ⁴⁄₃πr³</p>
+    <p>For combined solids, add or subtract volumes as needed.</p>
+
+    <h2>5. Scale: Maps, Blueprints, and Sketches</h2>
+    <p><strong>Meaning:</strong> Scale represents the relationship between a distance shown in a drawing and the corresponding actual distance.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Scale = Drawing Distance / Actual Distance</p>
+    <p>Actual Distance = Drawing Distance × Scale Factor</p>
+    <p>Drawing Distance = Actual Distance / Scale Factor</p>
+    <p>For a scale of 1:n, multiply the drawing distance by n to get the actual distance.</p>
+    <p>Always convert both distances to the same unit first.</p>
+
+    <h2>6. Currency Conversion</h2>
+    <p><strong>Meaning:</strong> Currency conversion is the process of changing an amount of money from one currency to another using an exchange rate.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Converted Amount = Original Amount × Exchange Rate</p>
+    <p>Pesos = US Dollars × Exchange Rate</p>
+    <p>US Dollars = Pesos / Exchange Rate</p>
+
+    <h2>7. Time Conversions</h2>
+    <p><strong>Meaning:</strong> Time conversion involves changing units of time or calculating the duration between two times.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Elapsed Time = End Time − Start Time</p>
+    <p>Net Time = Elapsed Time − Break Time</p>
+    <p>1 hour = 60 minutes</p>
+    <p>1 minute = 60 seconds</p>
+    <p>1 day = 24 hours</p>
+
+    <h2>8. Temperature Conversions</h2>
+    <p><strong>Meaning:</strong> Temperature conversion changes a temperature reading from one scale to another.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Celsius to Fahrenheit: F = (9/5)C + 32</p>
+    <p>Fahrenheit to Celsius: C = (5/9)(F − 32)</p>
+    <p>Celsius to Kelvin: K = C + 273.15</p>
+    <p>Kelvin to Celsius: C = K − 273.15</p>
+
+
+    <h1>TERM 2 — Measurement and Geometry</h1>
+
+    <h2>1. Trigonometric Ratios in Right Triangles</h2>
+    <p><strong>Meaning:</strong> Trigonometric ratios describe the relationship between the sides and angles of a right triangle.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Sine: sin θ = Opposite / Hypotenuse</p>
+    <p>Cosine: cos θ = Adjacent / Hypotenuse</p>
+    <p>Tangent: tan θ = Opposite / Adjacent</p>
+    <p>Pythagorean Theorem: a² + b² = c²</p>
+    <p>Where c is the hypotenuse.</p>
+
+    <h2>2. Right and Oblique Triangles</h2>
+    <p><strong>Meaning:</strong> Right triangles contain one 90° angle, while oblique triangles have no 90° angle.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Law of Sines: a/sin A = b/sin B = c/sin C</p>
+    <p>Law of Cosines: c² = a² + b² − 2ab cos C</p>
+    <p>a² = b² + c² − 2bc cos A</p>
+    <p>b² = a² + c² − 2ac cos B</p>
+
+    <h2>3. Angles of Elevation and Depression</h2>
+    <p><strong>Meaning:</strong> The angle of elevation is measured upward from the horizontal, while the angle of depression is measured downward from the horizontal.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>tan θ = Vertical Height / Horizontal Distance</p>
+    <p>h = d tan θ</p>
+    <p>d = h / tan θ</p>
+    <p>Total Height = d tan θ + Eye Height</p>
+
+    <h2>4. Bearings and Navigation</h2>
+    <p><strong>Meaning:</strong> Bearings describe direction using angles measured clockwise from north. Navigation problems may involve calculating direction and distance.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Distance = √(x² + y²)</p>
+    <p>Bearing Angle = tan⁻¹(East Displacement / North Displacement)</p>
+    <p>Bearings are commonly expressed using three digits, from 000° to 359°.</p>
+
+    <h2>5. Area of Oblique Triangles</h2>
+    <p><strong>Meaning:</strong> The area of an oblique triangle can be determined using its side lengths or two sides and their included angle.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Heron's Formula: A = √[s(s − a)(s − b)(s − c)]</p>
+    <p>Semi-perimeter: s = (a + b + c) / 2</p>
+    <p>Using Two Sides and Included Angle: A = ½ab sin C</p>
+    <p>A = ½bc sin A</p>
+    <p>A = ½ac sin B</p>
+
+    <h2>6. Length and Distance</h2>
+    <p><strong>Meaning:</strong> Length measures the size of an object, while distance measures the separation between two points or the path traveled.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Distance at Constant Speed: d = vt</p>
+    <p>Distance Between Two Points: d = √[(x₂ − x₁)² + (y₂ − y₁)²]</p>
+    <p>Rectangle Diagonal: d = √(l² + w²)</p>
+
+    <h2>7. Area and Perimeter of Residential Spaces</h2>
+    <p><strong>Meaning:</strong> Area measures the surface covered by a shape, while perimeter measures the total distance around its boundary.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Square Area: A = s²</p>
+    <p>Square Perimeter: P = 4s</p>
+    <p>Rectangle Area: A = lw</p>
+    <p>Rectangle Perimeter: P = 2(l + w)</p>
+    <p>Triangle Area: A = ½bh</p>
+    <p>Triangle Perimeter: P = a + b + c</p>
+    <p>Circle Area: A = πr²</p>
+    <p>Circle Circumference: C = 2πr</p>
+    <p>Fence Length = Perimeter − Gate Width</p>
+    <p>Total Cost = Fence Length × Cost per Unit</p>
+    <p>Required Flooring Area = Floor Area × (1 + Extra Rate)</p>
+
+    <h2>8. Volume and Capacity of Three-Dimensional Objects</h2>
+    <p><strong>Meaning:</strong> Volume measures the space occupied by an object, while capacity measures how much a container can hold.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Rectangular Tank: V = lwh</p>
+    <p>Cube-shaped Container: V = s³</p>
+    <p>Cylinder: V = πr²h</p>
+    <p>Prism: V = Bh</p>
+    <p>1 m³ = 1,000 L</p>
+    <p>1 L = 1,000 mL</p>
+    <p>Liquid Volume = Total Capacity × Filled Fraction</p>
+    <p>Additional Volume = Total Capacity − Current Volume</p>
+
+    <h2>9. Volume, Capacity, and Cost Estimation</h2>
+    <p><strong>Meaning:</strong> Estimation determines the amount of material needed and its approximate cost for projects such as painting walls, flooring rooms, or filling containers.</p>
+    <p><strong>Formulas:</strong></p>
+    <p>Material Needed = Total Area or Volume / Coverage per Unit</p>
+    <p>Paint Needed = (Net Wall Area × Number of Coats) / Coverage per Liter</p>
+    <p>Wall Area = 2h(l + w)</p>
+    <p>Net Area = Wall Area − Doors and Windows Area</p>
+    <p>Total Cost = Quantity Needed × Price per Unit</p>
+    <p>Round up when purchasing whole units of materials.</p>
+
+</body>
+</html>
